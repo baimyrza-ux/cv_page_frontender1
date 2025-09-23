@@ -1,0 +1,92 @@
+body {
+    /* background-color: #cfe7e9; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img__header {
+    height: 300px;
+    
+    border-radius: 20%;
+}
+
+.header {
+    text-align: center;
+}
+
+.dog-img {
+    height: 300px;
+    width: 300px;
+}
+
+.header__tittle {
+    font-size: 28px;
+}
+
+.header__subtitle {
+    color: rgb(103, 151, 206)
+}
+
+main {
+    border: 1px solid rgb(20, 12, 12);
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #330cc2;
+}
+
+.video iframe {
+    width: 800px;
+    height: 490px;
+    border: none;
+}
+
+.ed__table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed__table th,
+.ed__table td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 15px;
+}
+
+.quote{
+    font-size: 32px;
+}
+
+.form{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form__control{
+    width: 100%;
+}
+
+.control__text{
+    width: 70%;
+}
+
+.form__submit{
+    display: block;
+    margin: 0 auto;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: #c9c9ced0;
+}
+
+.contacts__link{
+    text-decoration: none;
+    color: #000;
+}
